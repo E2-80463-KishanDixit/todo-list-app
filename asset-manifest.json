@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-list-app/static/css/main.889ee1ba.css",
+    "main.js": "/todo-list-app/static/js/main.5b065096.js",
+    "index.html": "/todo-list-app/index.html",
+    "main.889ee1ba.css.map": "/todo-list-app/static/css/main.889ee1ba.css.map",
+    "main.5b065096.js.map": "/todo-list-app/static/js/main.5b065096.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.889ee1ba.css",
+    "static/js/main.5b065096.js"
+  ]
+}
